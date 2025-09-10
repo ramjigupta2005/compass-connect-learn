@@ -66,15 +66,15 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center space-x-2 text-sm text-muted-foreground">
                 <Mail className="h-4 w-4" />
-                <span>support@careercompass.com</span>
+                <span>support@LakshyaSetu.com</span>
               </div>
               <div className="flex items-center space-x-2 text-sm text-muted-foreground">
                 <Phone className="h-4 w-4" />
-                <span>+91 9876543210</span>
+                <span>+91 XXXXX12345</span>
               </div>
               <div className="flex items-center space-x-2 text-sm text-muted-foreground">
                 <MapPin className="h-4 w-4" />
-                <span>Mumbai, India</span>
+                <span>New Delhi, India</span>
               </div>
             </div>
           </div>
@@ -82,7 +82,7 @@ const Footer = () => {
         
         <div className="border-t mt-8 pt-8 text-center">
           <p className="text-sm text-muted-foreground">
-            © 2024 Career Compass. All rights reserved. Made with ❤️ for students.
+            © 2025 Lakshya Setu. All rights reserved. 
           </p>
         </div>
       </div>
