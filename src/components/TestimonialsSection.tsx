@@ -44,7 +44,7 @@ const TestimonialsSection = () => {
             </span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Real stories from students who found their path with Career Compass
+            Real stories from students who found their path with Lakshya Setu
           </p>
         </div>
         
