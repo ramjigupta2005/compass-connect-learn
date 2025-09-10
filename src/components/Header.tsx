@@ -1,4 +1,5 @@
 import { Button } from "@/components/ui/button";
+import { ThemeToggle } from "@/components/theme-toggle";
 import { GraduationCap, Menu } from "lucide-react";
 import { Link } from "react-router-dom";
 
@@ -31,6 +32,7 @@ const Header = () => {
         </nav>
         
         <div className="flex items-center space-x-4">
+          <ThemeToggle />
           <div className="hidden md:flex items-center space-x-2">
             <Button variant="ghost" size="sm" asChild>
               <Link to="/login">Login</Link>
