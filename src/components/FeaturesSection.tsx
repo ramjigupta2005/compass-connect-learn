@@ -87,7 +87,7 @@ const FeaturesSection = () => {
                 </CardDescription>
                 <Button 
                   variant="ghost" 
-                  className="p-0 h-auto text-primary hover:text-primary-glow font-medium group"
+                  className="p-2 h-auto text-primary  font-medium group"
                 >
                   {feature.action}
                   <ArrowRight className="ml-2 h-4 w-4 group-hover:translate-x-1 transition-smooth" />
