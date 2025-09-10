@@ -13,7 +13,7 @@ const Footer = () => {
                 <GraduationCap className="h-5 w-5 text-primary-foreground" />
               </div>
               <span className="text-xl font-bold bg-gradient-hero bg-clip-text text-transparent">
-                Career Compass
+               Lakshya Setu
               </span>
             </Link>
             <p className="text-sm text-muted-foreground leading-relaxed">
