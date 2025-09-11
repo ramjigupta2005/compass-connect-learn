@@ -3,32 +3,32 @@ import { Star, Quote } from "lucide-react";
 
 const testimonials = [
   {
-    name: "Anjali Sharma",
-    course: "B.A. Literature Student",
+    name: "Ramji",
+    course: "B.Tech Computer Science",
     content: "Before this platform, I had no idea what to do after 12th. The aptitude quiz showed me a path I never considered, and I'm so happy with my choice!",
     rating: 5,
-    avatar: "AS"
+    avatar: "RA"
   },
   {
-    name: "Rohit Kumar",
-    course: "B.Sc. Computer Science",
+    name: "Ritesh",
+    course: "B.Tech Computer Science",
     content: "The career mapping feature is incredible! I could see exactly where my degree could take me - from software engineering to research opportunities.",
     rating: 5,
-    avatar: "RK"
+    avatar: "RI"
   },
   {
-    name: "Priya Patel",
-    course: "B.Com Graduate",
+    name: "Sandeep",
+    course: "B.Tech Computer Science",
     content: "Found the perfect college near my home through their directory. The detailed information about facilities and cut-offs was exactly what I needed.",
     rating: 5,
-    avatar: "PP"
+    avatar: "SA"
   },
   {
-    name: "Arjun Singh",
-    course: "Engineering Aspirant",
+    name: "Archit",
+    course: "B.Tech Computer Science",
     content: "The timeline tracker saved me from missing important admission deadlines. Now I'm studying in my dream college!",
     rating: 5,
-    avatar: "AS"
+    avatar: "AR"
   }
 ];
 
